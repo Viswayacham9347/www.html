@@ -13,7 +13,7 @@
     padding: 10px;
     text-align: center;
 }
-.grid-container-areas:  {
+.grid-container-areas  {
     display: grid;
     grid-template-areas:
     "header header header"
